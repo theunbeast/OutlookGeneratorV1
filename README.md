@@ -4,6 +4,8 @@
 
   A powerful script/bot to automate Outlook email creation. 🤖
 
+  [Get more information here http://wiki-outgenv1.42web.io/](http://wiki-outgenv1.42web.io/)
+  
   <img src="/img/presentation.png" alt="presentation_1" width="500" height="300">
 
   ## 🚀 Launch
