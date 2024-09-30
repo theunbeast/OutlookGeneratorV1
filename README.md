@@ -50,12 +50,6 @@
 
   ---
 
-  ## 🇬🇧 English Version
-  For the English overview, please refer to [README_EN.md](EN/README_EN.md).
-
-  ## 🇫🇷 French Version
-  Pour une présentation en français, veuillez consulter [README_FR.md](FR/README_FR.md).
-
   ### 📝 Disclaimer
 
   The use of this script is at your own risk. This disclaimer is provided for educational purposes only. The author and any associated parties cannot be held responsible for any damage resulting from the use of this script.
