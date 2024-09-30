@@ -43,7 +43,7 @@
 
 - 💼 The original version of the script does not offer the possibility to customize its modules. However, I offer this personalized adaptation service of the script according to your specific needs.
 - 💬 Contact for buy [@theunbeast] on Session.
-- ⏳ Users can also opt for an 8-hour trial period to test the functionality before subscribing.
+- ⏳ Users can also opt for an 2-hours trial period to test the functionality before subscribing.
 - 🛡️ A login and password will be provided to access the script.
 - 🔄 Script updates included.
 - 🛠️ Additionally, I offer a script customization service according to your specific needs. To discuss customization options, please contact me on Session.
