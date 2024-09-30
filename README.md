@@ -2,15 +2,19 @@
   
   # 📧 Outlook Generator
 
-  A powerful script/bot to automate Outlook email creation. 🤖
-
-  [Get more information here http://wiki-outgenv1.42web.io/](http://wiki-outgenv1.42web.io/)
+  🤖 A powerful script/bot to automate Outlook email/account creation.
+  
+  🔥 The best Outlook email generator.
+  
+  📚 [Get more information here http://wiki-outgenv1.42web.io/](http://wiki-outgenv1.42web.io/)
   
   <img src="/img/presentation.png" alt="presentation_1" width="500" height="300">
 
   ## 🚀 Launch
 
   🔥 Launch up to 100 or more threads depending on the server it is installed on, allowing the creation of 100 accounts every 8 minutes.
+
+  🔥 The best Outlook account generator.
 
 ## 🎯 Features
 
