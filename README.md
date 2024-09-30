@@ -4,7 +4,7 @@
 
   A powerful script/bot to automate Outlook email creation. 🤖
 
-  <img src="/img/main.png" alt="presentation_1" width="500" height="300">
+  <img src="/img/presentation.png" alt="presentation_1" width="500" height="300">
 
   ## 🚀 Launch
 
