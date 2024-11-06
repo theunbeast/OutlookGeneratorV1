@@ -48,6 +48,9 @@
 - 🔄 Script updates included.
 - 🛠️ Additionally, I offer a script customization service according to your specific needs. To discuss customization options, please contact me on Session.
 
+## 📞 Telegram
+- @Bascook
+  
 ## 📞 Session
 
 [Get session here https://getsession.org/](https://getsession.org/)
